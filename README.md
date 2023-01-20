@@ -1,4 +1,4 @@
-![align="center" logo](https://github.com/assiff/assiff/blob/main/banner.gif)
+![logo](https://github.com/assiff/assiff/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Asif</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
